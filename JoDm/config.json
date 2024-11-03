@@ -1,0 +1,15 @@
+{
+    "attempts": 3,
+    "timeout": 30,
+    "debug": false,
+    "threads": 1,
+    "delay": 1,
+    "retry_delay": 1,
+    "use_proxies": false,
+    "use_scraper": true,
+    "server_id": "1121369705148583939",
+    "debug_requests": false,
+    "debug_headers": false,
+    "captcha_service":"csolver",
+    "captcha_key":""
+}
